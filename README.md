@@ -9,7 +9,9 @@ https://docs.docker.com/get-docker/
 https://docs.docker.com/compose/install/
 
 **After install the docker client**
-** Go to the project root dir **
+
+**Go to the project root dir**
+
 Run 
 
 >`docker-compose build`
