@@ -9,7 +9,7 @@ https://docs.docker.com/get-docker/
 https://docs.docker.com/compose/install/
 
 **After install the docker client**
-
+** Go to the project root dir **
 Run 
 
 >`docker-compose build`
@@ -67,4 +67,4 @@ Run
   
   >`npm run start`
   
-*That's It Client and Server app run on specified ports*
+*That's It Client and Server app run on the specified ports*
